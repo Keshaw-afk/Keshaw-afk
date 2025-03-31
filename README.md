@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Keshaw-afk
-- 👀 I’m interested in Computer Programming via C Language, AI and LLMs like ChatGPT, Linux distros like Ubuntu.
-- 🌱 I’m currently learning Web Development
 
 
 <!---
